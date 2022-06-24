@@ -1,0 +1,1 @@
+("All Metadata":"DevOps") AND ("All Metadata":"definition" OR "All Metadata":"principle" OR "All Metadata":"practice" OR "All Metadata":"method" OR "All Metadata":"framework" OR "All Metadata":"standard" OR "All Metadata": "technique" OR "All Metadata":"methodology")
