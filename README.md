@@ -1,3 +1,3 @@
 # DevOps-SLR-reproducibility-package
 # License
-[MIT](../LICENSE)
+[MIT](DevOps-SLR-reproducibility-package/LICENSE)
