@@ -1,0 +1,1 @@
+TITLE-ABS-KEY ( devops  AND  ( "definition"  OR  "principle"  OR  "practice"  OR  "methodology"  OR  "method"  OR  "framework"  OR  "standard"  OR  "technique" ) )
