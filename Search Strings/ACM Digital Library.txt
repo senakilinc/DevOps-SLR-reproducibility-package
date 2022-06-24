@@ -1,1 +1,1 @@
-
+Title:(DevOps) AND Title:(definition principle practice framework method standard technique methodology) OR Abstract:(DevOps) AND Abstract:(definition principle practice framework method standard technique methodology)
