@@ -2,6 +2,21 @@
 This package provides the necessary details that would allow anyone to reproduce the systematic literature review (SLR) of DevOps
 definitions, principles and practices that was performed in May 2022 as part of a semester project for the degree of Bachelor in Computer Science at the
 University of Luxembourg by Sena Kılınç under the supervision of Dr. Alfredo Capozucca.
+
+# Research Questions
+• RQ1 “Is there a standard for DevOps?”
+
+• RQ2 “What is the definition of DevOps?”
+
+• RQ3 “Which are the current existing DevOps
+principles?”
+
+• RQ4 “Which are the current existing DevOps
+practices?”
+
+• RQ5 “Where and when were these principles/prac-
+tices published?”
+
 # How to use?
 Please find the folder called Search Strings to have access to the search strings that have been used to conduct the systematic literature review with their respective Digital Libraries: IEEE Xplore, ACM and SCOPUS. The search strings have been applied using advanced search.
 
