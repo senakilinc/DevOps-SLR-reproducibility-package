@@ -34,7 +34,7 @@ Mendeley Reference Manager download link: [here](https://www.mendeley.com/downlo
 # Tables and Charts
 Please see the figures below to have a visual description of the obtained results of the SLR.
 
-![alt text](/images/ResultTable.png "USED DATABASES, SEARCH STRINGS AND RETURNED
+![alt text](/ChartsAndGraphs/ResultTable.png "USED DATABASES, SEARCH STRINGS AND RETURNED
 RESULTS FROM SEARCH CONDUCTED IN MAY 2ND, 2022")
 
 # License
